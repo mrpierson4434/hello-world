@@ -1,2 +1,2 @@
 # hello-world
-hello github.
+I'm going to make my first website!
